@@ -1,6 +1,5 @@
-import streamlit
-import pandas
-import os
-import smtplib
-import numpy
-import streamlit-drawable-canvas
+streamlit
+pandas
+os
+smtplib
+numpy
