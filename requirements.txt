@@ -3,3 +3,7 @@ pandas
 os
 smtplib
 numpy
+pygments
+mdurl
+markdown-it-py
+rich
