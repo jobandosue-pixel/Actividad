@@ -1,9 +1,5 @@
 streamlit
 pandas
-os
-smtplib
+streamlit-drawable-canvas
+Pillow
 numpy
-pygments
-mdurl
-markdown-it-py
-rich
